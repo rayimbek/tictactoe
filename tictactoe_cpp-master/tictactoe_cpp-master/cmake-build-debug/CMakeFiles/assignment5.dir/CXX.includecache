@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Application.cpp
+bits/stdc++.h
+-
+Application.h
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Application.h
+Player.h
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Player.h
+Environment.h
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Environment.h
+
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Application.h
+
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Environment.h
+ostream
+-
+Player.h
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Player.h
+
+C:/Users/Raikobek/Downloads/tictactoe_cpp-master/tictactoe_cpp-master/Player.h
+bits/stdc++.h
+-
+
